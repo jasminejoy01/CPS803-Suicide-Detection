@@ -6,33 +6,33 @@ The word associations derived from each method is used to identify posts with su
 The least biased method of identifying intent of suicide in text will be used to evaluate social media posts accumulate before and during the time of COVID-19.
 
 ### Preliminary Results
-sample_10_tokens
-LR Prediction Score: 50.0 %
-SVM Prediction Score: 50.0 %
-Bernoulli Naive Bayes Prediction Score: 50.0 %
-Gaussian Naive Bayes Prediction Score: 50.0 %
+#### sample_10_tokens <br>
+LR Prediction Score: 50.0 % <br>
+SVM Prediction Score: 50.0 % <br>
+Bernoulli Naive Bayes Prediction Score: 50.0 % <br>
+Gaussian Naive Bayes Prediction Score: 50.0 % <br>
 
-sample_20_tokens
-LR Prediction Score: 63.16 %
-SVM Prediction Score: 63.16 %
-Bernoulli Naive Bayes Prediction Score: 63.16 %
-Gaussian Naive Bayes Prediction Score: 47.37 %
+#### sample_20_tokens <br>
+LR Prediction Score: 63.16 % <br>
+SVM Prediction Score: 63.16 % <br>
+Bernoulli Naive Bayes Prediction Score: 63.16 % <br>
+Gaussian Naive Bayes Prediction Score: 47.37 % <br>
 
-sample_100_tokens
-LR Prediction Score: 65.22 %
-SVM Prediction Score: 65.22 %
-Bernoulli Naive Bayes Prediction Score: 63.04 %
-Gaussian Naive Bayes Prediction Score: 52.17 %
+#### sample_100_tokens <br>
+LR Prediction Score: 65.22 % <br>
+SVM Prediction Score: 65.22 % <br>
+Bernoulli Naive Bayes Prediction Score: 63.04 % <br>
+Gaussian Naive Bayes Prediction Score: 52.17 % <br>
 
-suicide_notes_tokens
-LR Prediction Score: 59.5 %
-SVM Prediction Score: 59.04 %
-Bernoulli Naive Bayes Prediction Score: 52.86 %
-Gaussian Naive Bayes Prediction Score: 22.88 %
+#### suicide_notes_tokens <br>
+LR Prediction Score: 59.5 % <br>
+SVM Prediction Score: 59.04 % <br>
+Bernoulli Naive Bayes Prediction Score: 52.86 % <br>
+Gaussian Naive Bayes Prediction Score: 22.88 % <br>
 
-reddit_depression_suicidewatch_tokens
-LR Prediction Score: 44.98 %
-SVM Prediction Score: 44.86 %
-Bernoulli Naive Bayes Prediction Score: 45.02 %
-Gaussian Naive Bayes Prediction Score: 46.79 %
+#### reddit_depression_suicidewatch_tokens <br>
+LR Prediction Score: 44.98 % <br>
+SVM Prediction Score: 44.86 % <br>
+Bernoulli Naive Bayes Prediction Score: 45.02 % <br>
+Gaussian Naive Bayes Prediction Score: 46.79 % <br>
 
