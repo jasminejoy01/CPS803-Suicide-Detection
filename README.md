@@ -40,10 +40,10 @@ Gaussian Naive Bayes Prediction Score: 46.79 % <br>
  <table>
     <thead>
       <tr>
-        <th>words</th>
-        <th>transform to</th>
-        <th>keepUpperCase is false</th>
-        <th>keepUpperCase is true</th>
+        <th>Datasets</th>
+        <th>True Positives</th>
+        <th>False Positives</th>
+        <th>False Negatives</th>
       </tr>
     </thead>
     <tbody>
