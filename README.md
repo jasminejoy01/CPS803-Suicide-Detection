@@ -36,8 +36,15 @@ SVM Prediction Score: 44.86 % <br>
 Bernoulli Naive Bayes Prediction Score: 45.02 % <br>
 Gaussian Naive Bayes Prediction Score: 46.79 % <br>
 
+### Key Concepts <br>
+| Datasets                    | True Positives        | False Positives  |  False Negatives         |
+| --------------------------- |:---------------------:| ----------------:| ------------------------:|
+| Sample 100                  | regret                | social anxiety   | loneliness & depression  |
+| Suicide Notes               | goodby notes          |                  | loneliness & anxiety     |
+| r/depression r/SuicideWatch | regret & goodbyenotes | social anxiety   | loneliness & anxiety     |
 
-| Tables                      | True Positives        | False Positives  |  False Negatives         |
+### Themes <br>
+| Datasets                    | True Positives        | False Positives  |  False Negatives         |
 | --------------------------- |:---------------------:| ----------------:| ------------------------:|
 | Sample 100                  | regret                | social anxiety   | loneliness & depression  |
 | Suicide Notes               | goodby notes          |                  | loneliness & anxiety     |
