@@ -37,11 +37,12 @@ Bernoulli Naive Bayes Prediction Score: 45.02 % <br>
 Gaussian Naive Bayes Prediction Score: 46.79 % <br>
 
 ### Key Concepts <br>
-| Datasets                    | True Positives        | False Positives  |  False Negatives         |
-| --------------------------- |:---------------------:| ----------------:| ------------------------:|
-| Sample 100                  | regret                | social anxiety   | loneliness & depression  |
-| Suicide Notes               | goodby notes          |                  | loneliness & anxiety     |
-| r/depression r/SuicideWatch | regret & goodbyenotes | social anxiety   | loneliness & anxiety     |
+| Datasets                    | True Positives                 | False Positives  |  False Negatives         |
+| --------------------------- |:------------------------------:| ----------------:| ------------------------:|
+| Sample 100                  | consider themselves a coward, 
+                                want to take their life,                | social anxiety   | loneliness & depression  |
+| Suicide Notes               | goodby notes                   |                  | loneliness & anxiety     |
+| r/depression r/SuicideWatch | regret & goodbyenotes          | social anxiety   | loneliness & anxiety     |
 
 ### Themes <br>
 | Datasets                    | True Positives        | False Positives  |  False Negatives         |
