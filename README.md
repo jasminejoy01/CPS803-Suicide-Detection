@@ -49,15 +49,21 @@ Gaussian Naive Bayes Prediction Score: 46.79 % <br>
     <tbody>
         <tr>
             <td>Sample 100</td>
-            <td>Suicide Notes</td>
-            <td>r/depression r/SuicideWatch</td>
-            <td><code>XMLHTTPRequest</code></td>
+            <td>regret</td>
+            <td>social anxiety</td>
+            <td>loneliness & depression</td>
         </tr>
         <tr>
-            <td>"new customer ID"</td>
-            <td>camelCase</td>
-            <td><code>newCustomerId</code></td>
-            <td><code>newCustomerID</code></td>
+            <td>Suicide Notes</td>
+            <td>goodby notes</td>
+            <td></td>
+            <td>loneliness & anxiety</td>
+        </tr>
+            <tr>
+            <td>r/depression r/SuicideWatch</td>
+            <td>regret & goodbyenotes</td>
+            <td>social anxiety</td>
+            <td>loneliness & anxiety</td>
         </tr>
     </tbody>
   </table>
