@@ -5,7 +5,7 @@ For this purpose, we will train and test classifiers such as Naïve Bayes, Suppo
 The word associations derived from each method is used to identify posts with suicidal tendencies.
 
 ### Procedure
-![alt text](http://url/to/img.png)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/55416635/142925329-23ffc099-be9a-44a6-9583-97bd35442513.png)
 
 ### Preliminary Results
 #### sample_10 <br>
