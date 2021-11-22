@@ -69,9 +69,9 @@ Gaussian Naive Bayes Prediction Score: 46.79 % <br>
   </table>
 
 ### Themes <br>
-| Datasets                     | True Positives       | False Positives | False Negatives         |
-| -----------------------------|:--------------------:| ---------------:| -----------------------:|
-| *Sample 100*                 | regret               | social anxiety  | loneliness & depression |
-| *Suicide Notes*              | goodby notes         |                 | loneliness & anxiety    |
-| *r/depression r/SuicideWatch*| regret & goodbyenotes| social anxiety  | loneliness & anxiety    |
+| Datasets                     | True Positives        | False Positives | False Negatives         |
+| -----------------------------|:---------------------:| ---------------:| -----------------------:|
+| *Sample 100*                 | regret                | social anxiety  | loneliness & depression |
+| *Suicide Notes*              | goodby notes          |                 | loneliness & anxiety    |
+| *r/depression r/SuicideWatch*| regret & goodbye notes| social anxiety  | loneliness & anxiety    |
 
