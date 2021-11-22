@@ -4,6 +4,38 @@ Project uses ML techniques in detecting a probable suicide message based on soci
 For this purpose, we will train and test classifiers such as Naïve Bayes, Support Vector Model and Logistic Regression to distinguish Reddit posts that indicate suicide and non-suicide. 
 The word associations derived from each method is used to identify posts with suicidal tendencies.
 
+### Datasets <br>
+ <table>
+    <thead>
+      <tr>
+        <th>Datasets</th>
+        <th>Intended Use</th>
+        <th>Rows</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><i>Suicide Detection</i></td>
+            <td>Training</td>
+            <td>232,074</td>
+            <td>Data from Kaggle. Data contains reddit posts that have been labelled as suicide and non-suicide.</td>
+        </tr>
+        <tr>
+            <td><i>Suicide Notes</i></td>
+            <td>Test</td>
+            <td>464</td>
+            <td>Data from Kaggle. Notes written by users who were confirmed with suicidal tendencies.</td>
+        </tr>
+            <tr>
+            <td><i>r/depression r/SuicideWatch</i></td>
+            <td>Test</td>
+            <td>20,364</td>
+            <td>Data from Kaggle. Data contains reddit posts from r/depression and r/suicidewatch.</td>
+        </tr>
+    </tbody>
+  </table>
+  
 ### Procedure
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/55416635/142925329-23ffc099-be9a-44a6-9583-97bd35442513.png)
 ### Preliminary Results
