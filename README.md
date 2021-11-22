@@ -49,9 +49,9 @@ Gaussian Naive Bayes Prediction Score: 46.79 % <br>
     <tbody>
         <tr>
             <td>Sample 100</td>
-            <td>regret</td>
-            <td>social anxiety</td>
-            <td>loneliness & depression</td>
+            <td>coward, take life, feeling lost and hurt</td>
+            <td>struggling to ask someone out, mentiones "girlfriend" & "past"</td>
+            <td>loneliness, depression, throughs of suicide, call for help</td>
         </tr>
         <tr>
             <td>Suicide Notes</td>
