@@ -4,6 +4,9 @@ Project uses ML techniques in detecting a probable suicide message based on soci
 For this purpose, we will train and test classifiers such as Naïve Bayes, Support Vector Model and Logistic Regression to distinguish Reddit posts that indicate suicide and non-suicide. 
 The word associations derived from each method is used to identify posts with suicidal tendencies.
 
+### Procedure
+![alt text](http://url/to/img.png)
+
 ### Preliminary Results
 #### sample_10 <br>
 LR Prediction Score: 50.0 % <br>
