@@ -48,9 +48,9 @@ Gaussian Naive Bayes Prediction Score: 46.79 % <br>
     </thead>
     <tbody>
         <tr>
-            <td>"XML HTTP request"</td>
-            <td>pascalCase</td>
-            <td><code>XmlHttpRequest</code></td>
+            <td>Sample 100</td>
+            <td>Suicide Notes</td>
+            <td>r/depression r/SuicideWatch</td>
             <td><code>XMLHTTPRequest</code></td>
         </tr>
         <tr>
