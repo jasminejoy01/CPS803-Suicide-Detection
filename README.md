@@ -1,4 +1,4 @@
-# CPS803-Suicide-Detection
+# Suicide Detection (CPS803)
 ### Abstract 
 Project uses ML techniques in detecting a probable suicide message based on social media posts. 
 For this purpose, we will train and test classifiers such as Naïve Bayes, Support Vector Model and Logistic Regression to distinguish Reddit posts that indicate suicide and non-suicide. 
