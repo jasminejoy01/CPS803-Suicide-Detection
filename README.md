@@ -49,21 +49,21 @@ Gaussian Naive Bayes Prediction Score: 46.79 % <br>
     <tbody>
         <tr>
             <td>Sample 100</td>
-            <td>coward, take life, feeling lost and hurt</td>
+            <td>consider themselves a coward, mentions taking own life, feeling lost and hurt</td>
             <td>struggling to ask someone out, mentiones "girlfriend" & "past"</td>
             <td>loneliness, depression, throughs of suicide, call for help</td>
         </tr>
         <tr>
             <td>Suicide Notes</td>
-            <td>goodby notes</td>
+            <td>mentions caring for family and friends (people around them), thoughts to kills oneself</td>
             <td></td>
-            <td>loneliness & anxiety</td>
+            <td>hurt, afraid and wondering about pain and death, sorry, want to cry, wondering if someone hears them, sad hours</td>
         </tr>
             <tr>
             <td>r/depression r/SuicideWatch</td>
-            <td>regret & goodbyenotes</td>
-            <td>social anxiety</td>
-            <td>loneliness & anxiety</td>
+            <td>believe they will never be happy, would like to see their family happy, better if they are dead, wishing life ended, feel useless, wishing things could change or were different</td>
+            <td>depressed, hating life, recent, way of life, references to the past</td>
+            <td>anxiety, panicking, use of medications, call for help</td>
         </tr>
     </tbody>
   </table>
