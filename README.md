@@ -36,3 +36,10 @@ SVM Prediction Score: 44.86 % <br>
 Bernoulli Naive Bayes Prediction Score: 45.02 % <br>
 Gaussian Naive Bayes Prediction Score: 46.79 % <br>
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
