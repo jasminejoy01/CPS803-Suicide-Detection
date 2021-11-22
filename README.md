@@ -38,7 +38,7 @@ The word associations derived from each method is used to identify posts with su
   
 ### Procedure
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/55416635/142925329-23ffc099-be9a-44a6-9583-97bd35442513.png)
-### Prediction Results
+### Preliminary Results
 #### sample_10 <br>
 LR Prediction Score: 50.0 % <br>
 SVM Prediction Score: 50.0 % <br>
