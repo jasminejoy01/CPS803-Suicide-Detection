@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 15 17:13:19 2021
-
-@author: jasmi
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Mon Nov  1 11:53:56 2021
 
 @author: jasmi
@@ -18,9 +11,10 @@ import torch
 import transformers as ppb # pytorch transformers
 from transformers import AutoTokenizer
 tokenizer = AutoTokenizer.from_pretrained('bert-base-cased')
+from tokenizers import BertWordPieceTokenizer
 
 '''Import Data'''
-name = 'c_suicide_notes'
+name = 'c_Suicide_Detection'
 df = pd.read_csv('C:/Users/jasmi/Desktop/ML data/'+name+'.csv') 
 #print(df.head())
 
@@ -50,6 +44,8 @@ i = 0
 while i < len(df['notesCleaned']):
     str_ = str(notesCleaned[i])
     tokenized = tokenizer.encode(str_, add_special_tokens=True)
+    #print(str_)
+    #print(tokenizer.decode(tokenized))
     val_len = len(tokenized)
     #print(i, index[i])
     token_count[i] = val_len
