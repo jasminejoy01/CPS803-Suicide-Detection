@@ -49,9 +49,9 @@ Gaussian Naive Bayes Prediction Score: 46.79 % <br>
     <tbody>
         <tr>
             <td><i>Sample 100</i></td>
-            <td>consider themselves a coward, mentions taking own life, feeling lost and hurt</td>
-            <td>struggling to ask someone out, mentiones "girlfriend" & "past"</td>
-            <td>loneliness, depression, throughs of suicide, call for help</td>
+            <td>probably a coward, way of life, bad things, better go, don’t want to feel sorry anymore, want to take their life, felling hurt, lost things, can’t find meaning in their life</td>
+            <td>really like to go on a date, struggling to ask someone out, asking a friend out, way of life, things were simpler back in school, mentions words like "girlfriend" & "past"</td>
+            <td>anyone want to talk, loneliness, depression, thoughts of suicide, therapists</td>
         </tr>
         <tr>
             <td><i>Suicide Notes</i></td>
