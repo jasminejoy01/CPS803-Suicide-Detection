@@ -1,7 +1,7 @@
 # Suicide Detection (CPS803)
 ### Abstract 
 Project uses ML techniques in detecting a probable suicide message based on social media posts. 
-For this purpose, we will train and test classifiers such as Naïve Bayes, Support Vector Model and Logistic Regression to distinguish Reddit posts that indicate suicide and non-suicide. 
+For this purpose, we will train and test classifiers such as Naïve Bayes, Support Vector Model, Logistic Regression and MLP to distinguish Reddit posts that indicate suicide and non-suicide. 
 The word associations derived from each method is used to identify posts with suicidal tendencies.
 
 ### Datasets <br>
@@ -56,18 +56,21 @@ LR Prediction Score: 65.22 % <br>
 SVM Prediction Score: 65.22 % <br>
 Bernoulli Naive Bayes Prediction Score: 63.04 % <br>
 Gaussian Naive Bayes Prediction Score: 52.17 % <br>
+Multilayer Perceptron Prediction Score: 65.0 % <br> ***
 
 #### suicide_notes <br>
 LR Prediction Score: 59.5 % <br>
 SVM Prediction Score: 59.04 % <br>
 Bernoulli Naive Bayes Prediction Score: 52.86 % <br>
 Gaussian Naive Bayes Prediction Score: 22.88 % <br>
+Multilayer Perceptron Prediction Score: 78.0 % <br> ***
 
 #### reddit_depression_suicidewatch <br>
 LR Prediction Score: 44.98 % <br>
 SVM Prediction Score: 44.86 % <br>
 Bernoulli Naive Bayes Prediction Score: 45.02 % <br>
 Gaussian Naive Bayes Prediction Score: 46.79 % <br>
+Multilayer Perceptron Prediction Score: 48.0 % <br> ***
 
 ### Key Concepts <br>
  <table>
