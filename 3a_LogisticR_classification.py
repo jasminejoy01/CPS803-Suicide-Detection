@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  1 15:07:03 2021
-
-@author: jasmi
-"""
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 import numpy as np
