@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  1 11:53:56 2021
-
-@author: jasmi
-"""
-
 import numpy as np
 import pandas as pd
 import torch
