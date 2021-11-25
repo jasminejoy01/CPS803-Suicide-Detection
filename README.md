@@ -91,7 +91,7 @@ Multilayer Perceptron Prediction Score: 48.0 % <br> ***
         </tr>
         <tr>
             <td><i>Suicide Notes</i></td>
-            <td>mentions caring for family and friends (people around them), thoughts to kills oneself</td>
+            <td>mentions caring for family and friends (people around them), thoughts to kill oneself</td>
             <td></td>
             <td>hurt, afraid and wondering about pain and death, sorry, want to cry, wondering if someone hears them, sad hours</td>
         </tr>
