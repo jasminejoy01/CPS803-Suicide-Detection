@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 25 10:23:02 2021
-
-@author: jasmi
-"""
-
 import pandas as pd
 import re
 
