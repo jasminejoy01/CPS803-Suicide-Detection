@@ -56,21 +56,24 @@ Logistic Regression Prediction Score: 65.22 % <br>
 Support Vector Machine Prediction Score: 65.22 % <br>
 Bernoulli Naive Bayes Prediction Score: 63.04 % <br>
 Gaussian Naive Bayes Prediction Score: 52.17 % <br>
-Multilayer Perceptron Prediction Score: 65.0 % <br> ***
+Random Forest Prediction Score: 68.48 % <br>
+Multilayer Perceptron Prediction Score: 68.48 % <br> ***
 
 #### suicide_notes <br>
-Logistic Regression Prediction Score: 59.5 % <br>
+Logistic Regression Prediction Score: 59.50 % <br>
 Support Vector Machine Prediction Score: 59.04 % <br>
 Bernoulli Naive Bayes Prediction Score: 52.86 % <br>
 Gaussian Naive Bayes Prediction Score: 22.88 % <br>
-Multilayer Perceptron Prediction Score: 78.0 % <br> ***
+Random Forest Prediction Score: 63.39 % <br>
+Multilayer Perceptron Prediction Score: 71.85 % <br> ***
 
 #### reddit_depression_suicidewatch <br>
 Logistic Regression Prediction Score: 44.98 % <br>
 Support Vector Machine Prediction Score: 44.86 % <br>
 Bernoulli Naive Bayes Prediction Score: 45.02 % <br>
 Gaussian Naive Bayes Prediction Score: 46.79 % <br>
-Multilayer Perceptron Prediction Score: 48.0 % <br> ***
+Random Forest Prediction Score: 44.69 % <br>
+Multilayer Perceptron Prediction Score: 45.45 % <br> ***
 
 ### Key Concepts <br>
  <table>
