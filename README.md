@@ -41,6 +41,7 @@ The word associations derived from each method is used to identify posts with su
 ### Preliminary Results
 
 #### Suicide Detection Train-Test Split <br>
+Dataset is balanced and accurately labelled. 
 <table>
     <thead>
       <tr>
@@ -82,6 +83,7 @@ The word associations derived from each method is used to identify posts with su
 
 
 #### suicide_notes <br>
+Dataset is unbalanced and skewed to contain only sentences labelled as 'suicide'. 
 <table>
     <thead>
       <tr>
@@ -122,6 +124,7 @@ The word associations derived from each method is used to identify posts with su
   </table>
 
 #### reddit_depression_suicidewatch <br>
+Dataset is balanced, but labels need not be accurate. 
 <table>
     <thead>
       <tr>
