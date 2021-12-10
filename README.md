@@ -161,6 +161,9 @@ The word associations derived from each method is used to identify posts with su
     </tbody>
   </table>
 
+### Result
+Count Vectorize perfromed better than BERT as a tokenizer.
+Multinomial Naive Bayes classifier performed the best.
 
 ### Key Concepts <br>
  <table>
