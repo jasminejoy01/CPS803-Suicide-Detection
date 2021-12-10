@@ -82,29 +82,84 @@ The word associations derived from each method is used to identify posts with su
 
 
 #### suicide_notes <br>
-Logistic Regression Prediction Score: 59.50 % <br>
-Support Vector Machine Prediction Score: 59.04 % <br>
-Bernoulli Naive Bayes Prediction Score: 52.86 % <br>
-Gaussian Naive Bayes Prediction Score: 22.88 % <br>
-Random Forest Prediction Score: 63.39 % <br>
-Multilayer Perceptron Prediction Score: 71.85 % <br> ***
+<table>
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th>BERT Accuracy</th>
+        <th>Count Vectorize Accuracy</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><i>Logistic Regression</i></td>
+            <td>59.50</td>
+            <td>83.41</td>
+        </tr>
+        <tr>
+            <td><i>Bernoulli Naive Bayes</i></td>
+            <td>52.86</td>
+            <td>59.05</td>
+        </tr>
+            <tr>
+            <td><i>Multinomial Naive Bayes</i></td>
+            <td>36.16</td>
+            <td>94.83</td>
+        </tr>
+        </tr>
+            <tr>
+            <td><i>SVM</i></td>
+            <td>59.04</td>
+            <td>78.66</td>
+        </tr>
+        </tr>
+            <tr>
+            <td><i>Random Forest</i></td>
+            <td>63.39</td>
+            <td>55.17</td>
+        </tr>
+    </tbody>
+  </table>
 
 #### reddit_depression_suicidewatch <br>
-Logistic Regression Prediction Score: 44.98 % <br>
-Support Vector Machine Prediction Score: 44.86 % <br>
-Bernoulli Naive Bayes Prediction Score: 45.02 % <br>
-Gaussian Naive Bayes Prediction Score: 46.79 % <br>
-Random Forest Prediction Score: 44.69 % <br>
-Multilayer Perceptron Prediction Score: 45.45 % <br> ***
-
-
-
-
-
-
-
-
-
+<table>
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th>BERT Accuracy</th>
+        <th>Count Vectorize Accuracy</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><i>Logistic Regression</i></td>
+            <td>44.98</td>
+            <td>54.61</td>
+        </tr>
+        <tr>
+            <td><i>Bernoulli Naive Bayes</i></td>
+            <td>45.02</td>
+            <td>45.30</td>
+        </tr>
+            <tr>
+            <td><i>Multinomial Naive Bayes</i></td>
+            <td>45.45</td>
+            <td>49.43</td>
+        </tr>
+        </tr>
+            <tr>
+            <td><i>SVM</i></td>
+            <td>44.86</td>
+            <td>54.58</td>
+        </tr>
+        </tr>
+            <tr>
+            <td><i>Random Forest</i></td>
+            <td>44.69</td>
+            <td>45.65</td>
+        </tr>
+    </tbody>
+  </table>
 
 
 ### Key Concepts <br>
