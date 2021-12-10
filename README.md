@@ -39,25 +39,47 @@ The word associations derived from each method is used to identify posts with su
 ### Procedure
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/55416635/142925329-23ffc099-be9a-44a6-9583-97bd35442513.png)
 ### Preliminary Results
-#### sample_10 <br>
-Logistic Regression Prediction Score: 50.0 % <br>
-Support Vector Machine Prediction Score: 50.0 % <br>
-Bernoulli Naive Bayes Prediction Score: 50.0 % <br>
-Gaussian Naive Bayes Prediction Score: 50.0 % <br>
 
-#### sample_20 <br>
-Logistic Regression Prediction Score: 63.16 % <br>
-Support Vector Machine Prediction Score: 63.16 % <br>
-Bernoulli Naive Bayes Prediction Score: 63.16 % <br>
-Gaussian Naive Bayes Prediction Score: 47.37 % <br>
+#### Suicide Detection Train-Test Split <br>
+<table>
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th>BERT Accuracy</th>
+        <th>Count Vectorize Accuracy</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><i>Logistic Regression</i></td>
+            <td>81.08</td>
+            <td>93.19</td>
+        </tr>
+        <tr>
+            <td><i>Bernoulli Naive Bayes</i></td>
+            <td>82.33</td>
+            <td>77.75</td>
+        </tr>
+            <tr>
+            <td><i>Multinomial Naive Bayes</i></td>
+            <td>82.33</td>
+            <td>90.25</td>
+        </tr>
+        </tr>
+            <tr>
+            <td><i>SVM</i></td>
+            <td>82.33</td>
+            <td>92.55</td>
+        </tr>
+        </tr>
+            <tr>
+            <td><i>Random Forest</i></td>
+            <td>82.35</td>
+            <td>75.71</td>
+        </tr>
+    </tbody>
+  </table>
 
-#### sample_100 <br>
-Logistic Regression Prediction Score: 65.22 % <br>
-Support Vector Machine Prediction Score: 65.22 % <br>
-Bernoulli Naive Bayes Prediction Score: 63.04 % <br>
-Gaussian Naive Bayes Prediction Score: 52.17 % <br>
-Random Forest Prediction Score: 68.48 % <br>
-Multilayer Perceptron Prediction Score: 68.48 % <br> ***
 
 #### suicide_notes <br>
 Logistic Regression Prediction Score: 59.50 % <br>
@@ -74,6 +96,16 @@ Bernoulli Naive Bayes Prediction Score: 45.02 % <br>
 Gaussian Naive Bayes Prediction Score: 46.79 % <br>
 Random Forest Prediction Score: 44.69 % <br>
 Multilayer Perceptron Prediction Score: 45.45 % <br> ***
+
+
+
+
+
+
+
+
+
+
 
 ### Key Concepts <br>
  <table>
