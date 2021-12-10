@@ -1,7 +1,7 @@
 # Suicide Detection (CPS803)
 ### Abstract 
 Project uses ML techniques in detecting a probable suicide message based on social media posts. 
-For this purpose, we will train and test classifiers such as Naïve Bayes, Support Vector Model, Logistic Regression and MLP to distinguish Reddit posts that indicate suicide and non-suicide. 
+For this purpose, we trained and tested classical machine learning classifiers such as Naïve Bayes, Support Vector Model, and Logistic Regression distinguish Reddit posts that indicate suicide and non-suicide.
 The word associations derived from each method is used to identify posts with suicidal tendencies.
 
 ### Datasets <br>
@@ -38,7 +38,7 @@ The word associations derived from each method is used to identify posts with su
   
 ### Procedure
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/55416635/142925329-23ffc099-be9a-44a6-9583-97bd35442513.png)
-### Preliminary Results
+### Results - Classical Machine Learning Models
 
 #### Suicide Detection Train-Test Split <br>
 <i>Dataset is balanced and accurately labelled. </i>
@@ -71,12 +71,6 @@ The word associations derived from each method is used to identify posts with su
             <td><i>SVM</i></td>
             <td>82.33</td>
             <td>92.55</td>
-        </tr>
-        </tr>
-            <tr>
-            <td><i>Random Forest</i></td>
-            <td>82.35</td>
-            <td>75.71</td>
         </tr>
     </tbody>
   </table>
@@ -114,12 +108,6 @@ The word associations derived from each method is used to identify posts with su
             <td>59.04</td>
             <td>78.66</td>
         </tr>
-        </tr>
-            <tr>
-            <td><i>Random Forest</i></td>
-            <td>63.39</td>
-            <td>55.17</td>
-        </tr>
     </tbody>
   </table>
 
@@ -154,12 +142,6 @@ The word associations derived from each method is used to identify posts with su
             <td><i>SVM</i></td>
             <td>44.86</td>
             <td>54.58</td>
-        </tr>
-        </tr>
-            <tr>
-            <td><i>Random Forest</i></td>
-            <td>44.69</td>
-            <td>45.65</td>
         </tr>
     </tbody>
   </table>
