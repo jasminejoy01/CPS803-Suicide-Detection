@@ -72,6 +72,12 @@ The word associations derived from each method is used to identify posts with su
             <td>82.33</td>
             <td>92.55</td>
         </tr>
+        </tr>
+            <tr>
+            <td><i>MLP</i></td>
+            <td>82.33</td>
+            <td></td>
+        </tr>
     </tbody>
   </table>
 
@@ -108,6 +114,12 @@ The word associations derived from each method is used to identify posts with su
             <td>59.04</td>
             <td>78.66</td>
         </tr>
+        </tr>
+            <tr>
+            <td><i>MLP</i></td>
+            <td>60.41</td>
+            <td></td>
+        </tr>
     </tbody>
   </table>
 
@@ -142,6 +154,12 @@ The word associations derived from each method is used to identify posts with su
             <td><i>SVM</i></td>
             <td>44.86</td>
             <td>54.58</td>
+        </tr>
+        </tr>
+            <tr>
+            <td><i>MLP</i></td>
+            <td>45.89</td>
+            <td></td>
         </tr>
     </tbody>
   </table>
