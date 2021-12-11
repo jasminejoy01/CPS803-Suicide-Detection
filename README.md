@@ -37,9 +37,9 @@ The word associations derived from each method is used to identify posts with su
   </table>
   
 ### Procedure
-BERT
-![BERT_flow_diagram](images/diagram_bert.png)
-CountVectorize
+BERT<br>
+![BERT_flow_diagram](images/diagram_bert.png)<br>
+CountVectorize<br>
 ![CountVectorize_flow_diagram](images/diagram_CountVectorize.PNG)
 ### Results - Classical Machine Learning Models
 
