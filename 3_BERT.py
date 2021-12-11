@@ -1,6 +1,5 @@
 '''
 - Using BERT
-- Splitting training and testing datasets
 - Training Dataset: Suicide_Detection
 - Test Datasets: reddit_depression_suicidewatch, suicide_notes
 - Input folder: tokenized_datasets
