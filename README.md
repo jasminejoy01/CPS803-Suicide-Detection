@@ -76,7 +76,7 @@ The word associations derived from each method is used to identify posts with su
             <tr>
             <td><i>MLP</i></td>
             <td>82.33</td>
-            <td></td>
+            <td>94.52</td>
         </tr>
     </tbody>
   </table>
@@ -118,7 +118,7 @@ The word associations derived from each method is used to identify posts with su
             <tr>
             <td><i>MLP</i></td>
             <td>60.41</td>
-            <td></td>
+            <td>98.86</td>
         </tr>
     </tbody>
   </table>
@@ -159,7 +159,7 @@ The word associations derived from each method is used to identify posts with su
             <tr>
             <td><i>MLP</i></td>
             <td>45.89</td>
-            <td></td>
+            <td>53.73</td>
         </tr>
     </tbody>
   </table>
