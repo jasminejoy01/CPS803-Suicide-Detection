@@ -37,8 +37,7 @@ The word associations derived from each method is used to identify posts with su
   </table>
   
 ### Procedure
-![BERT_flow_diagram](images/diagram_bert.png)</td>
-![CountVectorize_flow_diagram](images/diagram_CountVectorize.PNG)</td>
+![flow_diagram](images/diagram_procedure.png)</td>
 ### Results - Classical Machine Learning Models
 
 #### Suicide Detection Train-Test Split <br>
