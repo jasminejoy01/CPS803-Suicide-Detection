@@ -38,6 +38,7 @@ The word associations derived from each method is used to identify posts with su
   
 ### Procedure
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/55416635/142925329-23ffc099-be9a-44a6-9583-97bd35442513.png)
+![CountVectorize](images/diagram_CountVectorize.PNG)
 ### Results - Classical Machine Learning Models
 
 #### Suicide Detection Train-Test Split <br>
