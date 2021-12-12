@@ -168,42 +168,10 @@ The word associations derived from each method is used to identify posts with su
 Count Vectorize perfromed better than BERT as a tokenizer.
 Multinomial Naive Bayes classifier performed the best.
 
-### Key Concepts <br>
- <table>
-    <thead>
-      <tr>
-        <th>Datasets</th>
-        <th>True Positives</th>
-        <th>False Positives</th>
-        <th>False Negatives</th>
-      </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><i>Sample 100</i></td>
-            <td>probably a coward, way of life, bad things, better go, don’t want to feel sorry anymore, want to take their life, felling hurt, lost things, can’t find meaning in their life</td>
-            <td>really like to go on a date, struggling to ask someone out, asking a friend out, way of life, things were simpler back in school, mentions words like "girlfriend" & "past"</td>
-            <td>anyone want to talk, loneliness, depression, thoughts of suicide, therapists</td>
-        </tr>
-        <tr>
-            <td><i>Suicide Notes</i></td>
-            <td>mentions caring for family and friends (people around them), thoughts to kill oneself</td>
-            <td></td>
-            <td>hurt, afraid and wondering about pain and death, sorry, want to cry, wondering if someone hears them, sad hours</td>
-        </tr>
-            <tr>
-            <td><i>r/depression r/SuicideWatch</i></td>
-            <td>believe they will never be happy, would like to see their family happy, better if they are dead, wishing life ended, feel useless, wishing things could change or were different</td>
-            <td>depressed, hating life, recent, way of life, references to the past</td>
-            <td>anxiety, panicking, use of medications, call for help</td>
-        </tr>
-    </tbody>
-  </table>
-
 ### Themes <br>
 | Datasets                     | True Positives        | False Positives | False Negatives         |
 | -----------------------------|:---------------------:| ---------------:| -----------------------:|
-| *Sample 100*                 | regret                | social anxiety  | loneliness & depression |
+| *Testset*                    | regret                | social anxiety  | loneliness & depression |
 | *Suicide Notes*              | goodbye notes         |                 | loneliness & anxiety    |
 | *r/depression r/SuicideWatch*| regret & goodbye notes| social anxiety  | loneliness & anxiety    |
 
