@@ -75,7 +75,7 @@ The word associations derived from each method is used to identify posts with su
         </tr>
             <tr>
             <td><i>MLP</i></td>
-            <td>82.33</td>
+            <td>82.07</td>
             <td>94.52</td>
         </tr>
     </tbody>
