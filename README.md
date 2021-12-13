@@ -37,7 +37,7 @@ The word associations derived from each method is used to identify posts with su
   </table>
   
 ### Procedure
-![flow_diagram](images/diagram_procedure.PNG)</td>
+![flow_diagram](images/diagram_procedure.PNG)
 ### Results - Classical Machine Learning Models
 
 #### Suicide Detection Train-Test Split <br>
@@ -175,3 +175,6 @@ Multinomial Naive Bayes classifier performed the best.
 | *Suicide Notes*              | goodbye notes         |                 | loneliness & anxiety    |
 | *r/depression r/SuicideWatch*| regret & goodbye notes| social anxiety  | loneliness & anxiety    |
 
+##Project Video
+
+[<img src="https://user-images.githubusercontent.com/55416635/145757086-34287b88-ca1b-484a-b885-68b5e1345819.PNG" width="50%">](https://youtu.be/TiqcQnYaNIc)
