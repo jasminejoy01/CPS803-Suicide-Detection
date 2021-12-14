@@ -174,7 +174,10 @@ Multinomial Naive Bayes classifier performed the best.
 | *Testset*                    | hopelessness          | anxiety         | loneliness & depression      |
 | *Suicide Notes*              | goodbye notes         |                 | loneliness & depression      |
 | *r/depression r/SuicideWatch*| regret & goodbye notes| anxiety         | loneliness & dissatisfaction |
+<br>
 
+| Word Cloud            | Themes                               |
+| ----------------------|:------------------------------------:|
 | True Positives        | suffering & hopelessness             |
 | False Negatives       | loneliness & social dissatisfaction  |
 | False Positives       | pain & anxiety                       |
