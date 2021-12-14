@@ -165,7 +165,8 @@ The word associations derived from each method is used to identify posts with su
   </table>
 
 ### Result
-Count Vectorize perfromed better than BERT as a tokenizer.
+Results from Count Vectorizer performed better than BERT in all three experiments, and the most improvement was noted with the MLP models. <br>
+Count Vectorizer is the better tokenizer as it transforms text into a vector based on the frequency of the words that occur in texts. <br>
 Multinomial Naive Bayes classifier performed the best.
 
 ### Themes <br>
