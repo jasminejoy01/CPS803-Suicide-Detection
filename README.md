@@ -185,4 +185,4 @@ Multinomial Naive Bayes classifier performed the best.
 
 ### Project Video
 
-[<img src="https://user-images.githubusercontent.com/55416635/145757086-34287b88-ca1b-484a-b885-68b5e1345819.PNG" width="75%">](https://youtu.be/TiqcQnYaNIc)
+[<img src="https://user-images.githubusercontent.com/55416635/145757086-34287b88-ca1b-484a-b885-68b5e1345819.PNG" width="60%">](https://youtu.be/TiqcQnYaNIc)
