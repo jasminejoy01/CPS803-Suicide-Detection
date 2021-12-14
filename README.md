@@ -169,11 +169,15 @@ Count Vectorize perfromed better than BERT as a tokenizer.
 Multinomial Naive Bayes classifier performed the best.
 
 ### Themes <br>
-| Datasets                     | True Positives        | False Positives | False Negatives         |
-| -----------------------------|:---------------------:| ---------------:| -----------------------:|
-| *Testset*                    | regret                | social anxiety  | loneliness & depression |
-| *Suicide Notes*              | goodbye notes         |                 | loneliness & anxiety    |
-| *r/depression r/SuicideWatch*| regret & goodbye notes| social anxiety  | loneliness & anxiety    |
+| Datasets                     | True Positives        | False Positives | False Negatives              |
+| -----------------------------|:---------------------:| ---------------:| ----------------------------:|
+| *Testset*                    | hopelessness          | anxiety         | loneliness & depression      |
+| *Suicide Notes*              | goodbye notes         |                 | loneliness & depression      |
+| *r/depression r/SuicideWatch*| regret & goodbye notes| anxiety         | loneliness & dissatisfaction |
+
+| True Positives        | suffering & hopelessness             |
+| False Negatives       | loneliness & social dissatisfaction  |
+| False Positives       | pain & anxiety                       |
 
 ### Project Video
 
