@@ -164,19 +164,14 @@ The word associations derived from each method is used to identify posts with su
     </tbody>
   </table>
 
-### Result
-Results from Count Vectorizer performed better than BERT in all three experiments, and the most improvement was noted with the MLP models. <br>
-Count Vectorizer is the better tokenizer as it transforms text into a vector based on the frequency of the words that occur in texts. <br>
-Multinomial Naive Bayes classifier performed the best.
-
-### Themes <br>
+### Result<br>
 | Datasets                     | True Positives        | False Positives | False Negatives              |
 | -----------------------------|:---------------------:| ---------------:| ----------------------------:|
 | *Testset*                    | hopelessness          | anxiety         | loneliness & depression      |
 | *Suicide Notes*              | goodbye notes         |                 | loneliness & depression      |
 | *r/depression r/SuicideWatch*| regret & goodbye notes| anxiety         | loneliness & dissatisfaction |
-<br>
 
+### Themes <br>
 | Word Cloud            | Themes                               |
 | ----------------------|:------------------------------------:|
 | True Positives        | suffering & hopelessness             |
