@@ -38,7 +38,7 @@ The word associations derived from each method is used to identify posts with su
   
 ### Procedure
 ![flow_diagram](images/diagram_procedure.PNG)
-### Results - Classical Machine Learning Models
+### Results - Machine Learning Models
 
 #### Suicide Detection Train-Test Split <br>
 <i>Dataset is balanced and accurately labelled. </i>
